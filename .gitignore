@@ -1,0 +1,15 @@
+# macOS / system
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
