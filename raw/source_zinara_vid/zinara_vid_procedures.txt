@@ -1,0 +1,40 @@
+ZINARA & VEHICLE INSPECTION DEPARTMENT (VID) - PROCEDURES
+
+1. VEHICLE LICENCE DISC RENEWAL (ZINARA) (SVC-019)
+- Agency: Zimbabwe National Roads Authority (ZINARA)
+- Category: transport_licensing
+- Requirements: Vehicle Registration Book (Logbook), Valid Third Party Vehicle Insurance Certificate, Radio Licence (ZBC token), Previous Licence Disc details.
+- Official Fee: USD $20 per term (4 months) for standard light passenger vehicle.
+- Procedure Steps:
+  1. Ensure valid third-party insurance cover is active.
+  2. Visit ZINARA licensing office, selected ZimPost branch, or access online portal/bank app.
+  3. Enter vehicle registration number and insurance policy details.
+  4. Pay prescribed ZINARA road levy ($20) and ZBC radio licence fee.
+  5. Collect or print valid Vehicle Licence Disc for display on windscreen.
+- Processing Time: Immediate at counter / instant online.
+
+2. PROVISIONAL DRIVER'S LICENCE APPLICATION (VID) (SVC-020)
+- Agency: Vehicle Inspection Department (VID)
+- Category: transport_licensing
+- Requirements: Original National Identity Card / Valid Passport, 2 Passport-sized photos (white background), Eye Test Certificate / Verification, Age requirement (16 years for Class 4, 18 for Class 2).
+- Official Fee: USD $20 examination fee.
+- Procedure Steps:
+  1. Report to nearest VID depot (e.g. VID Eastlea, Harare or VID Belvedere).
+  2. Present National ID and pay $20 examination fee at cash counter.
+  3. Undergo visual acuity eye test.
+  4. Sit for 25-question Highway Code multiple choice written examination.
+  5. Score minimum 88% (22/25) to pass.
+  6. Receive laminated Provisional Driver's Licence valid for 12 months.
+- Processing Time: Same day (2 - 3 hours).
+
+3. CERTIFICATE OF FITNESS (COF) FOR COMMERCIAL VEHICLES (VID) (SVC-021)
+- Agency: Vehicle Inspection Department (VID)
+- Category: transport_licensing
+- Requirements: Vehicle Logbook, Commercial Operator Permit, Fire Extinguisher, Red Warning Triangles, Emergency Medical Kit, Reflector Tapes.
+- Official Fee: USD $30 - $50 depending on vehicle class (Taxis, Commuter Omnibuses, Heavy Goods Trucks).
+- Procedure Steps:
+  1. Drive commercial vehicle to VID inspection pit lane.
+  2. Present registration book and pay inspection fee.
+  3. VID examiner tests braking efficiency, steering mechanisms, tires, chassis, lights, and safety accessories.
+  4. Upon passing mechanical audit, examiner stamps and issues Certificate of Fitness (COF) disc.
+- Processing Time: Same day (1 - 2 hours).

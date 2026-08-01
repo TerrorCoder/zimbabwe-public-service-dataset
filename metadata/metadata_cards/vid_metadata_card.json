@@ -1,0 +1,19 @@
+{
+  "agency_code": "VID",
+  "agency_name": "Vehicle Inspection Department",
+  "record_count": 8,
+  "covered_services": [
+    "Provisional Driver's Licence Application",
+    "Commercial Vehicle Certificate of Fitness (COF)",
+    "International Driving Permit (IDP) Issuance (AAZ)",
+    "Heavy Vehicle Breakdown & Towing Service Licence",
+    "Dangerous Goods (Hazchem) Road Transport Permit",
+    "Vehicle Number Plate Replacement & Transfer",
+    "Commuter Omnibus Operator Route Permit",
+    "School Bus Transport Safety Clearance"
+  ],
+  "last_audit_date": "2026-07-31",
+  "data_steward": "Dataprenuers / Lincoln Tinaye Rwodzi",
+  "license": "CC-BY-4.0",
+  "provenance_summary": "Extracted from official portal & verified with administrative office documentation."
+}

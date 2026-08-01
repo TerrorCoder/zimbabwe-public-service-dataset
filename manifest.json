@@ -1,0 +1,17 @@
+{
+  "name": "zimbabwe-public-service-dataset",
+  "version": "1.0.0",
+  "created_at": "2026-07-14",
+  "updated_at": "2026-07-31",
+  "files": {
+    "records_jsonl": "processed/records.jsonl",
+    "records_csv": "processed/records.csv",
+    "intents_jsonl": "labels/multilingual_intents.jsonl",
+    "schema_json": "schema/schema.json",
+    "quality_report": "validation/quality_report.md"
+  },
+  "stats": {
+    "record_count": 20000,
+    "agency_count": 8
+  }
+}

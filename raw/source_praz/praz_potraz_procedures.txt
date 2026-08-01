@@ -1,0 +1,42 @@
+PUBLIC PROCUREMENT REGULATORY AUTHORITY OF ZIMBABWE (PRAZ) & MINISTRY OF ICT / POTRAZ PROCEDURES
+
+1. PRAZ SUPPLIER & BIDDER REGISTRATION / RENEWAL (SVC-012)
+- Agency: Public Procurement Regulatory Authority of Zimbabwe (PRAZ)
+- Category: Procurement
+- Requirements: Certificate of Incorporation / PBC Certificate, Valid Tax Clearance Certificate (ITF263), CR6/CR5 or Member Details, Director National IDs, Company Profile, Category Selection.
+- Official Fee: USD $120 per category per annum for local suppliers; USD $850 for international suppliers.
+- Procedure Steps:
+  1. Access PRAZ Government Portal (portal.praz.org.zw).
+  2. Create Supplier Account and complete profile.
+  3. Select procurement categories (e.g., Stationery, ICT Hardware, Construction, Consulting).
+  4. Upload valid Tax Clearance Certificate and Incorporation documents.
+  5. Pay prescribed annual registration fee online or via bank transfer.
+  6. Verification by PRAZ officer and issuance of PRAZ Supplier Certificate.
+- Processing Time: 1 - 2 working days.
+
+2. POSTAL AND COURIER SERVICE OPERATING LICENSE (SVC-013)
+- Agency: Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+- Category: Postal Licensing
+- Requirements: Registered Company Documents, Detailed Business Plan, Proof of Financial Capability, Security clearance for key personnel, Vehicle fleet/logistics list, Premises inspection.
+- Official Fee: USD $500 Application Fee + USD $2,500 License Fee (Commercial Courier).
+- Procedure Steps:
+  1. Collect application form from POTRAZ headquarters or website (potraz.gov.zw).
+  2. Pay non-refundable application fee.
+  3. Submit completed form with business plan, operational network map, and security clearance forms.
+  4. POTRAZ Technical Committee conducts evaluation and physical site inspection.
+  5. Board review and recommendation.
+  6. Payment of initial license fee and issuance of Commercial Courier Operating License.
+- Processing Time: 30 - 60 calendar days.
+
+3. VALUE ADDED SERVICE (VAS) / INTERNET SERVICE PROVIDER (ISP) LICENSE (SVC-014)
+- Agency: Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+- Category: Postal Licensing
+- Requirements: Company Incorporation, Network Architecture & Topology Plan, Quality of Service Commitment, Data Protection Compliance Officer declaration, Application Fee.
+- Official Fee: USD $1,000 Application Fee + USD $10,000 License Fee.
+- Procedure Steps:
+  1. Submit Class License application to POTRAZ.
+  2. Technical evaluation of proposed bandwidth and service architecture.
+  3. Public notice and gazetting window.
+  4. Payment of class license fee upon approval.
+  5. Issuance of ISP/VAS Operating License.
+- Processing Time: 45 - 90 calendar days.

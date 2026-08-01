@@ -1,0 +1,39 @@
+LABOUR, ENERGY, ENVIRONMENT & SECURITY PROCEDURES
+
+1. FIREARM / GUN LICENCE APPLICATION & RENEWAL (SVC-145)
+- Agency: Zimbabwe Republic Police (Controller of Firearms) / Ministry of Home Affairs
+- Category: civil_registration
+- Requirements: Applicant National ID, Passed Safe Storage Audit (Gun Safe bolted to wall/floor), CID Criminal Vetting Clearance, Reason for Possession (Farming, Game protection, Cash in Transit, Self-defence), Form FR 1.
+- Official Fee: USD $50 Application Fee + USD $20 Annual Renewal Fee.
+- Procedure Steps:
+  1. Obtain Form FR 1 from local ZRP station firearms registry.
+  2. Local ZRP Officer-in-Charge conducts physical site inspection of gun safe storage.
+  3. Fingerprints vetted by CID Criminal Records Office.
+  4. File forwarded to Controller of Firearms (Police General Headquarters).
+  5. Controller issues Firearm Certificate valid for 3 years.
+- Processing Time: 30 - 60 calendar days.
+
+2. LIQUOR LICENSING BOARD OPERATING PERMIT (SVC-149)
+- Agency: Liquor Licensing Board (Ministry of Local Government / Home Affairs)
+- Category: business_registration
+- Requirements: Approved Municipal Health Sanitation Certificate, Chief Fire Officer Clearance, Police Vetting Certificate, Press Notice in 2 Newspapers, Form LLB 1.
+- Official Fee: USD $100 Application Fee + USD $300 - $800 Annual Licence (Bar/Bottle Store/Nightclub).
+- Procedure Steps:
+  1. Publish notice of application in 2 editions of national newspaper for 14-day public review.
+  2. Obtain Health Inspection clearance from Municipal Health Officer and Fire Department.
+  3. Submit Form LLB 1 to Secretary of the Liquor Licensing Board.
+  4. Board conducts quarterly licensing hearing.
+  5. Receive official Liquor Operating Licence for display at premises.
+- Processing Time: 30 - 60 calendar days.
+
+3. CASINO & GAMING HOUSE OPERATING LICENCE (SVC-150)
+- Agency: Lotteries and Gaming Board
+- Category: business_registration
+- Requirements: Company Incorporation (Pvt Ltd), Paid-up Capital ($500,000 USD), Security Surveillance System (CCTV), Fit and Proper Vetting of Shareholders & Directors, Form LGB 1.
+- Official Fee: USD $2,500 Application Fee + USD $10,000 Annual Operating Licence.
+- Procedure Steps:
+  1. Submit formal application Form LGB 1 to Lotteries and Gaming Board Secretariat.
+  2. Background security vetting conducted by ZRP CID.
+  3. Technical inspectors audit gaming machines, roulette tables, and CCTV coverage.
+  4. Board approves licence and issues Gaming House Licence.
+- Processing Time: 60 - 90 calendar days.

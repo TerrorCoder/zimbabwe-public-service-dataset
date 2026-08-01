@@ -1,0 +1,40 @@
+HEALTHCARE, LEGAL & PROFESSIONAL REGISTRATION PROCEDURES
+
+1. MEDICAL PRACTITIONER ANNUAL PRACTISING CERTIFICATE (SVC-046)
+- Agency: Medical and Dental Practitioners Council of Zimbabwe (MDPCZ)
+- Category: civil_registration
+- Requirements: MBChB / Medical Degree Certificate, Internship Completion Certificate, Certificate of Good Standing from previous medical council, CPD Credit points proof, Application Form MDPCZ 1.
+- Official Fee: USD $150 per annum for general practitioners; USD $300 for specialists.
+- Procedure Steps:
+  1. Submit Form MDPCZ 1 to Council Registrar.
+  2. Attach medical degree, internship completion letter, and CPD points evidence.
+  3. MDPCZ Credentials Committee audits qualifications and internship logbook.
+  4. Pay annual practising fee.
+  5. Receive Medical Practising Certificate and entry into the Zimbabwe Medical Register.
+- Processing Time: 7 - 14 working days.
+
+2. ESTATE AGENT REGISTRATION & PRACTISING CERTIFICATE (SVC-057 -> SVC-049)
+- Agency: Estate Agents Council of Zimbabwe (EACZ)
+- Category: business_registration
+- Requirements: Estate Agency Diploma / Real Estate Degree, Passed EACZ Professional Board Exam, Fidelity Guarantee Fund Bond Certificate, Company Registration Docs, Form EAC 1.
+- Official Fee: USD $200 Registration Fee + USD $300 Annual Practising Certificate.
+- Procedure Steps:
+  1. Sit for EACZ Board Examination.
+  2. Deposit Fidelity Guarantee Fund security bond.
+  3. Submit application Form EAC 1 with qualification certificates to EACZ Secretariat.
+  4. Council audits trust account compliance and criminal clearance.
+  5. Receive Registered Estate Agent Certificate and Compensation Fund Card.
+- Processing Time: 14 - 30 calendar days.
+
+3. PRIVATE VOLUNTARY ORGANIZATION (PVO / NGO) REGISTRATION (SVC-056)
+- Agency: PVO Board / Ministry of Public Service, Labour and Social Welfare
+- Category: civil_registration
+- Requirements: Proposed Constitution, List of Board of Trustees with IDs, Police Clearance for Trustees, District Development Coordinator (DDC) Recommendation Letter, Form PVO 1.
+- Official Fee: USD $20 Application Fee + USD $100 Registration Certificate Fee.
+- Procedure Steps:
+  1. Draft NGO Constitution detailing non-profit objectives.
+  2. Publish notice of intention to register in 2 local newspapers (21-day objection period).
+  3. Submit Form PVO 1 with newspaper cuttings and trustee police clearances to DDC / Provincial Office.
+  4. PVO Board reviews application and security clearances.
+  5. Minister signs off and issues PVO Registration Certificate.
+- Processing Time: 60 - 90 calendar days.

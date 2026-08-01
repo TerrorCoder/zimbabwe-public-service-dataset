@@ -1,0 +1,35 @@
+{
+  "dataset_name": "Zimbabwe Public Service Knowledge & AI Benchmark Dataset",
+  "version": "1.0.0-phase1",
+  "description": "Multilingual AI-ready dataset of Zimbabwean government administrative procedure knowledge.",
+  "maintainer": "Dataprenuers Team",
+  "license": "CC-BY-4.0",
+  "languages": [
+    "en",
+    "sn",
+    "nd"
+  ],
+  "total_records": 20000,
+  "total_agencies": 8,
+  "agencies": [
+    "CIVREG",
+    "DCIP",
+    "ZIMRA",
+    "PRAZ",
+    "POTRAZ",
+    "NSSA",
+    "ZINARA",
+    "VID"
+  ],
+  "categories": [
+    "civil_registration",
+    "intellectual_property",
+    "postal_licensing",
+    "business_registration",
+    "transport_licensing",
+    "social_security",
+    "tax",
+    "procurement"
+  ],
+  "last_updated": "2026-07-31"
+}

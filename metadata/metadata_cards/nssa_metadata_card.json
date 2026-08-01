@@ -1,0 +1,17 @@
+{
+  "agency_code": "NSSA",
+  "agency_name": "National Social Security Authority",
+  "record_count": 6,
+  "covered_services": [
+    "Employer Social Security Registration",
+    "Employee Pension & Invalidity Grant Registration",
+    "Voluntary Informal Sector Pension Scheme (VIPS)",
+    "Workers' Compensation Insurance Fund (WCIF) Claim",
+    "NSSA Pension Retirement Benefit Claim",
+    "NSSA Survivor's Pension & Funeral Grant Application"
+  ],
+  "last_audit_date": "2026-07-31",
+  "data_steward": "Dataprenuers / Lincoln Tinaye Rwodzi",
+  "license": "CC-BY-4.0",
+  "provenance_summary": "Extracted from official portal & verified with administrative office documentation."
+}

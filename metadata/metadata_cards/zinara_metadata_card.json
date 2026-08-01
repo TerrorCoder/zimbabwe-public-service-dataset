@@ -1,0 +1,14 @@
+{
+  "agency_code": "ZINARA",
+  "agency_name": "Zimbabwe National Roads Authority",
+  "record_count": 3,
+  "covered_services": [
+    "Vehicle Licence Disc Renewal",
+    "ZINARA Road Toll Exemption Card Application",
+    "Road Toll Discount Permit for Local Residents (ZINARA)"
+  ],
+  "last_audit_date": "2026-07-31",
+  "data_steward": "Dataprenuers / Lincoln Tinaye Rwodzi",
+  "license": "CC-BY-4.0",
+  "provenance_summary": "Extracted from official portal & verified with administrative office documentation."
+}

@@ -1,0 +1,51 @@
+IMMIGRATION DEPARTMENT OF ZIMBABWE & LOCAL CITY COUNCIL PROCEDURES
+
+1. TEMPORARY EMPLOYMENT PERMIT (TEP / WORK PERMIT) (SVC-022)
+- Agency: Immigration Department of Zimbabwe
+- Category: civil_registration
+- Requirements: Form IF1, Employer Letter of Justification (proving no local citizen possesses specialized skill), Curriculum Vitae, Certified Qualifications, Police Clearance Certificate from country of origin, Medical Clearance, Application Fee.
+- Official Fee: USD $500 Application Fee + USD $1,500 Annual Permit Fee upon approval.
+- Procedure Steps:
+  1. Employer submits TEP application form IF1 to Department of Immigration Headquarters (Linquenda House, Harare).
+  2. Sub-Committee on Foreign Employment reviews specialized skill justification and local understudy training plan.
+  3. Security vetting by relevant security agencies.
+  4. Board decision and approval letter issued.
+  5. Payment of annual permit fee and endorsement of TEP sticker in passport.
+- Processing Time: 30 - 60 calendar days.
+
+2. BUSINESS INVESTOR RESIDENCE PERMIT (SVC-023)
+- Agency: Immigration Department of Zimbabwe
+- Category: civil_registration
+- Requirements: Zimbabwe Investment and Development Agency (ZIDA) License, Proof of Capital Investment (minimum $100,000 USD banked into Zimbabwe), Business Incorporation Docs, Bank Statements, Police Clearance, Medical Certificate.
+- Official Fee: USD $500 Application Fee + USD $2,000 Investor Permit Fee.
+- Procedure Steps:
+  1. Obtain ZIDA Investor License.
+  2. Submit Residence Permit application form to Immigration Headquarters.
+  3. Financial audit verifying capital inflow and employment creation for Zimbabweans.
+  4. Issuance of 5-Year Renewable Investor Residence Permit.
+- Processing Time: 30 - 45 calendar days.
+
+3. MUNICIPAL BUSINESS OPERATING LICENCE (SHOP LICENCE) (SVC-024)
+- Agency: City Council (Harare / Bulawayo / Local Authorities)
+- Category: business_registration
+- Requirements: Company Incorporation / PBC Docs, ZIMRA Tax Clearance (ITF263), Approved Building Floor Plan, Fire Clearance Certificate, City Health Inspection Certificate, Advertisement Notice in local newspaper.
+- Official Fee: USD $150 - $450 per annum depending on business activity zone and floor area.
+- Procedure Steps:
+  1. Collect Shop Licence application form from Town House / Municipal District Office.
+  2. Publish public notice of intention to operate in two consecutive editions of local newspaper (14-day objection window).
+  3. Undergo joint inspection by City Health, Fire Department, and Town Planning officers.
+  4. Submit inspection clearance reports and pay annual licence fee.
+  5. City Licensing Officer issues Municipal Business Licence disc for display.
+- Processing Time: 14 - 30 calendar days.
+
+4. MUNICIPAL HEALTH & FOOD HANDLER'S MEDICAL CERTIFICATE (SVC-025)
+- Agency: City Council Health Department
+- Category: civil_registration
+- Requirements: National ID Copy, 2 Passport photos, Stool/Blood Medical Test Results from designated municipal clinic, Medical examination fee.
+- Official Fee: USD $15 per worker per annum.
+- Procedure Steps:
+  1. Food handling staff report to Municipal Clinic (e.g. Beatrice Road Infectious Diseases Hospital / City Clinic).
+  2. Complete medical examination and lab testing for communicable diseases.
+  3. Doctor signs off health clearance.
+  4. City Health Department issues Food Handler's Medical Card (Red Card).
+- Processing Time: 2 - 3 working days.

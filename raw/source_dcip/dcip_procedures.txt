@@ -1,0 +1,38 @@
+DEEDS AND COMPANIES OFFICE (DCIP / CORES) - ADMINISTRATIVE PROCEDURES
+
+1. PRIVATE BUSINESS CORPORATION (PBC) REGISTRATION (SVC-005)
+- Category: Business Registration
+- Requirements: Proposed PBC Name (up to 5 choices), CR1 Name Availability Search Confirmation, Details of Members (1 to 20 members), National ID copies, Physical Business Address, Accounting Officer details.
+- Official Fee: USD $20 (Name Search $5 + Registration Fee $15).
+- Procedure Steps:
+  1. Submit Name Search application (Form CR1) online via CORES portal (cores.dcip.gov.zw) or at Deeds Office counter.
+  2. Await Name Reservation clearance (valid for 30 days).
+  3. Draft Incorporation Statement (Form PBC 2) detailing objectives, member contributions, and accounting officer.
+  4. Upload signed PBC 2 form and member ID copies.
+  5. Pay registration fee and receive PBC Incorporation Certificate.
+- Processing Time: 3 - 5 working days.
+
+2. PRIVATE LIMITED COMPANY (PVT LTD) INCORPORATION (SVC-006)
+- Category: Business Registration
+- Requirements: Approved Name Search (CR1), Memorandum & Articles of Association, Notice of Situation of Physical Office (Form CR5), Particulars of Directors & Secretaries (Form CR6), Copies of IDs of minimum 2 Directors.
+- Official Fee: USD $85 (Name Search $5 + Registration $80).
+- Procedure Steps:
+  1. Complete online name search and obtain approval.
+  2. Prepare Memorandum and Articles of Association.
+  3. Complete Form CR5 (Registered Address) and Form CR6 (Directors and Secretary).
+  4. Submit application documents via CORES e-services.
+  5. Payment of statutory registration fee.
+  6. Registrar issues Certificate of Incorporation and stamped CR5/CR6 forms.
+- Processing Time: 5 - 7 working days.
+
+3. TRADEMARK REGISTRATION (SVC-007)
+- Category: Intellectual Property
+- Requirements: Representation of the Mark/Logo, Applicant Details, List of Goods/Services (Nice Classification), Power of Attorney (if filed via agent).
+- Official Fee: USD $200 (Application Fee $100 + Publication/Registration $100).
+- Procedure Steps:
+  1. Conduct preliminary trademark availability search at IP Office.
+  2. File Application Form TM 1 with mark representation and classification.
+  3. Formality examination and substantive examination by Registrar.
+  4. Acceptance and publication in Patent & Trademark Journal (2 months opposition period).
+  5. Grant and issuance of Trademark Registration Certificate.
+- Processing Time: 6 - 12 months.

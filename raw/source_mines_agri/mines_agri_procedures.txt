@@ -1,0 +1,41 @@
+MINISTRY OF MINES, AGRICULTURE & TIMB ADMINISTRATIVE PROCEDURES
+
+1. PROSPECTING LICENCE & MINING CLAIM REGISTRATION (SVC-033)
+- Agency: Ministry of Mines and Mining Development
+- Category: business_registration
+- Requirements: Applicant National ID / Company Registration Certificate, Certificate of Financial Capability, Form M1 Prospecting Application, Mining District Locator Map, Landowner Notification Acknowledgment.
+- Official Fee: USD $200 per prospecting licence (valid for 2 years) + USD $100 claim pegging fee.
+- Procedure Steps:
+  1. Submit Form M1 at Provincial Mining Commissioner's Office.
+  2. Purchase Prospecting Licence token ($200).
+  3. Engage registered Approved Prospector to peg mining claim.
+  4. Post Prospecting Notice (DPN) on ground for 30 days.
+  5. File Registration Certificate Application with GPS coordinates and sketch plan.
+  6. Mining Commissioner issues Mining Claim Certificate of Registration.
+- Processing Time: 30 - 45 calendar days.
+
+2. TOBACCO GROWER REGISTRATION & MARKETING NUMBER (SVC-036)
+- Agency: Tobacco Industry and Marketing Board (TIMB)
+- Category: business_registration
+- Requirements: Grower National ID, Proof of Land Tenure / Title Deed / Offer Letter / A2 Permit / Communal Chief's Letter, Farm GPS Location, Bank Account Details.
+- Official Fee: USD $10 (Early registration before October 31); USD $40 (Late registration).
+- Procedure Steps:
+  1. Access TIMB Portal (portal.timb.co.zw) or visit TIMB Regional Office.
+  2. Complete Grower Registration Form detailing farm hectarage and tobacco variety.
+  3. Upload proof of land occupation and ID.
+  4. Pay registration fee ($10 early bird).
+  5. Receive TIMB Grower Sales Code Number for auction floor delivery.
+- Processing Time: 1 - 2 working days.
+
+3. LIVESTOCK MOVEMENT PERMIT & VETERINARY CLEARANCE (SVC-035)
+- Agency: Department of Veterinary Services (DVS)
+- Category: civil_registration
+- Requirements: Stock Movement Application Form, Police Clearance (Clearance Form 392 for cattle), Veterinary Inspection Certificate (proving Foot and Mouth / Anthrax vaccination status), Buyer & Seller IDs.
+- Official Fee: USD $5 per movement permit + USD $1 per head of cattle.
+- Procedure Steps:
+  1. Obtain Police Stock Theft clearance (Form 392) at local ZRP station.
+  2. Request Veterinary Officer to inspect cattle/livestock at dip tank or farm.
+  3. Vet officer verifies brand marks, ear tags, and health status.
+  4. Pay veterinary movement fee.
+  5. Receive DVS Livestock Movement Permit valid for 7 days.
+- Processing Time: 1 - 2 working days.

@@ -1,0 +1,33 @@
+NATIONAL SOCIAL SECURITY AUTHORITY (NSSA) - ADMINISTRATIVE PROCEDURES
+
+1. EMPLOYER SOCIAL SECURITY REGISTRATION (PENSION & ACCIDENT PREVENTION SCHEMES) (SVC-016)
+- Category: social_security
+- Requirements: Certificate of Incorporation / PBC Certificate, Form CR6 / CR5, Director IDs, List of Employees with IDs, Company Bank Details, Form P2 (Employer Registration).
+- Official Fee: USD $0 (Statutory registration; monthly contributions payable thereafter).
+- Procedure Steps:
+  1. Complete NSSA Employer Registration Form P2 online (selfservice.nssa.org.zw) or at NSSA Regional Office.
+  2. Attach company incorporation documents, director IDs, and initial payroll list.
+  3. NSSA inspector assigns Employer SSR Number.
+  4. Access NSSA Self-Service Portal to upload monthly Form P4 returns.
+- Processing Time: 2 - 3 working days.
+
+2. EMPLOYEE PENSION & INVALIDITY GRANT REGISTRATION (SVC-017)
+- Category: social_security
+- Requirements: Employee National ID Copy, Birth Certificate, NSSA Social Security Number (SSN), Employer Form P3 (Employee Registration), Certified Bank Account Details.
+- Official Fee: USD $0.
+- Procedure Steps:
+  1. Employer registers employee via Form P3 within 14 days of employment start.
+  2. Employee issued unique NSSA Social Security Number.
+  3. Monthly 4.5% employee + 4.5% employer contribution remitted to NSSA.
+- Processing Time: Immediate upon employer submission.
+
+3. VOLUNTARY INFORMAL SECTOR PENSION SCHEME (VIPS) (SVC-018)
+- Category: social_security
+- Requirements: National Identity Card, Proof of Informal Business Activity / Vendor License, Passport photo, Nominated beneficiary details.
+- Official Fee: USD $0 registration; minimum $10/month voluntary contribution.
+- Procedure Steps:
+  1. Self-employed or informal trader visits NSSA branch or mobile registration kiosk.
+  2. Fill in VIPS Registration Form.
+  3. Select monthly contribution tier (USD or ZiG equivalent).
+  4. Receive NSSA VIPS Membership Card and mobile payment shortcode.
+- Processing Time: Same day.

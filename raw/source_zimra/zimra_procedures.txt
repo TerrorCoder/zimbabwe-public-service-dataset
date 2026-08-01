@@ -1,0 +1,51 @@
+ZIMBABWE REVENUE AUTHORITY (ZIMRA) - ADMINISTRATIVE PROCEDURES
+
+1. INDIVIDUAL TAXPAYER IDENTIFICATION NUMBER (TIN) REGISTRATION (SVC-008)
+- Category: Tax
+- Requirements: Copy of National ID Card or Valid Passport, Proof of Residence (Utility bill or bank statement under 3 months old), Proof of Income/Employment (Paystub or bank statement).
+- Official Fee: USD $0 (Free official government service).
+- Procedure Steps:
+  1. Access TaRMS Self Service Portal (mytaxselfservice.zimra.co.zw).
+  2. Click 'Sign Up' and register an SSP user account with verified mobile number and email.
+  3. Select 'Register as Individual'.
+  4. Fill in Personal Details, Physical Address, and Banking Details.
+  5. Upload National ID and Proof of Residence.
+  6. Submit application; system automatically generates Taxpayer Identification Number (TIN).
+- Processing Time: Immediate online / 24 hours.
+
+2. BUSINESS TAXPAYER ONBOARDING (BP NUMBER / TARMS) (SVC-009)
+- Category: Tax
+- Requirements: Certificate of Incorporation, Form CR6 (Directors), Form CR5 (Business Address), Memorandum & Articles of Association, Directors' National IDs, Stamped Company Bank Statement, Public Officer Appointment Letter.
+- Official Fee: USD $0 (Free official service).
+- Procedure Steps:
+  1. Create Organization Profile on TaRMS SSP portal.
+  2. Complete Business Entity Registration wizard.
+  3. Attach stamped bank statement and company incorporation documents.
+  4. Designate Public Officer and attach signed appointment letter + ID.
+  5. ZIMRA officer conducts backend verification and approves profile.
+  6. TIN issued and Single Account linked.
+- Processing Time: 1 - 3 working days.
+
+3. VALUE ADDED TAX (VAT) REGISTRATION (SVC-010)
+- Category: Tax
+- Requirements: Active ZIMRA TIN, Proof of meeting threshold ($25,000 USD annual turnover or historical invoices), Physical Business premises inspection consent, Certified Bank Statement.
+- Official Fee: USD $0 (Free official service).
+- Procedure Steps:
+  1. Submit VAT Registration application via TaRMS portal under Tax Types tab.
+  2. Upload sales invoices/contracts demonstrating $25,000 turnover threshold.
+  3. Schedule physical business site inspection with regional ZIMRA station officer.
+  4. ZIMRA inspector verifies operational status and fiscalization readiness.
+  5. Approval granted; VAT number assigned and fiscal device integration authorized.
+- Processing Time: 5 - 10 working days.
+
+4. TAX CLEARANCE CERTIFICATE (ITF263) ISSUANCE (SVC-011)
+- Category: Tax
+- Requirements: Up-to-date Tax Returns filed (Income Tax, PAYE, QPDs), Fiscalization Compliance (Interfaced fiscal devices), Zero outstanding tax debt or agreed payment plan.
+- Official Fee: USD $0 (Free official service).
+- Procedure Steps:
+  1. Log into TaRMS Self-Service Portal account.
+  2. Navigate to 'Services' -> 'Tax Clearance (ITF263)'.
+  3. System performs automated compliance check against filing history and fiscalization status.
+  4. If fully compliant, system auto-generates downloadable ITF263 Certificate with QR code.
+  5. If non-compliant, system lists blocking items for resolution.
+- Processing Time: Instantaneous (automated) upon compliance.

@@ -1,0 +1,14 @@
+{
+  "agency_code": "PRAZ",
+  "agency_name": "Public Procurement Regulatory Authority of Zimbabwe",
+  "record_count": 3,
+  "covered_services": [
+    "PRAZ Supplier and Bidder Annual Registration",
+    "Public Supplier Category Upgrade & Modification",
+    "PRAZ Public Procurement Officer Certification"
+  ],
+  "last_audit_date": "2026-07-31",
+  "data_steward": "Dataprenuers / Lincoln Tinaye Rwodzi",
+  "license": "CC-BY-4.0",
+  "provenance_summary": "Extracted from official portal & verified with administrative office documentation."
+}

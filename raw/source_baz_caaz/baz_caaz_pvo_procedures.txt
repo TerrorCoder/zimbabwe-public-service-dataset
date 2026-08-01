@@ -1,0 +1,26 @@
+BAZ, CAAZ & ZIMPARKS ADMINISTRATIVE PROCEDURES
+
+1. DRONE OPERATOR LICENCE & REMOTELY PILOTED AIRCRAFT SYSTEM (RPAS) PERMIT (SVC-058)
+- Agency: Civil Aviation Authority of Zimbabwe (CAAZ)
+- Category: postal_licensing
+- Requirements: RPAS Pilot Licence / Remote Pilot Certificate, Drone Serial Number & Import Clearance, Third Party Aviation Insurance, Airspace Security Approval (Ministry of Defence), CAAZ Application Form.
+- Official Fee: USD $100 Registration Fee + USD $200 Annual Permit Fee (Commercial Drone).
+- Procedure Steps:
+  1. Register drone hardware serial number with CAAZ Flight Safety Division.
+  2. Complete Remote Pilot License training at CAAZ-certified ATO.
+  3. Submit flight operations safety manual and security clearance application.
+  4. CAAZ inspects drone and verifies insurance cover.
+  5. Receive CAAZ RPAS Operator Certificate (ROC).
+- Processing Time: 14 - 30 calendar days.
+
+2. COMMERCIAL FISHING & KAPENTA OPERATING LICENCE (SVC-060)
+- Agency: Zimbabwe Parks and Wildlife Management Authority (Zimparks)
+- Category: business_registration
+- Requirements: Vessel Certificate of Seaworthiness (Ministry of Transport / Lake Captain), Rig / Boat Serial Registration, ZIMRA Tax Clearance, Zimparks Form K1.
+- Official Fee: USD $1,000 per Kapenta Rig per annum (Lake Kariba Basin).
+- Procedure Steps:
+  1. Present Kapenta rig for marine safety inspection by Lake Captain.
+  2. Submit Form K1 to Zimparks Kariba / Harare Office with seaworthiness certificate.
+  3. Pay annual Kapenta quota licensing fee.
+  4. Receive Zimparks Commercial Fishing Licence disc and permit token.
+- Processing Time: 7 - 14 working days.

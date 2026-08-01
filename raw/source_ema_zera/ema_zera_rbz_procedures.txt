@@ -1,0 +1,41 @@
+ENVIRONMENTAL MANAGEMENT AGENCY (EMA), ZERA & RBZ PROCEDURES
+
+1. ENVIRONMENTAL IMPACT ASSESSMENT (EIA) CERTIFICATE (SVC-037)
+- Agency: Environmental Management Agency (EMA)
+- Category: business_registration
+- Requirements: Project Prospectus Submission, EIA Study Report by Registered Environmental Consultant, Public Stakeholder Consultation Records, Site Layout Plans, Review Fee Payment.
+- Official Fee: 1.5% of Total Project Capital Investment Cost (Minimum $210 USD).
+- Procedure Steps:
+  1. Submit Project Prospectus to EMA Director General for screening.
+  2. Engage registered independent Environmental Consultant to conduct EIA study.
+  3. Conduct public stakeholder consultations and publish notice in national press.
+  4. Submit comprehensive EIA Report to EMA for technical review.
+  5. EMA Technical Committee inspects site and evaluates mitigation plan.
+  6. Issuance of 2-Year Renewable EIA Certificate.
+- Processing Time: 30 - 60 calendar days.
+
+2. PETROLEUM RETAIL & FUEL STATION OPERATING LICENCE (SVC-042)
+- Agency: Zimbabwe Energy Regulatory Authority (ZERA)
+- Category: postal_licensing
+- Requirements: Approved EIA Certificate from EMA, Local Authority Building & Town Planning Permit, Fire Brigade Inspection Clearance Certificate, Tank Calibration Certificates, Company Incorporation Documents, ZIMRA Tax Clearance.
+- Official Fee: USD $2,000 per annum (Urban Fuel Station); USD $500 (Rural Fuel Station).
+- Procedure Steps:
+  1. Apply for ZERA Retail License via ZERA portal (zera.co.zw).
+  2. Upload EMA EIA Certificate, Fire Clearance, and local council permits.
+  3. ZERA Technical Engineers conduct physical site safety inspection.
+  4. Board approval and payment of annual license fee.
+  5. Receive ZERA Petroleum Retailer Operating Licence.
+- Processing Time: 30 - 45 calendar days.
+
+3. BUREAU DE CHANGE OPERATING LICENCE (SVC-039)
+- Agency: Reserve Bank of Zimbabwe (RBZ) / Exchange Control
+- Category: business_registration
+- Requirements: Minimum Paid-up Capital Proof ($50,000 USD banked at RBZ), Incorporation as Pvt Ltd, Anti-Money Laundering (AML/CFT) Compliance Manual, Director Vetting by CID, Secure Premises Layout.
+- Official Fee: USD $1,000 Application Fee + USD $2,500 License Fee.
+- Procedure Steps:
+  1. Submit formal application to RBZ Exchange Control Division.
+  2. Deposit required minimum capital reserve ($50,000) with commercial bank.
+  3. Security and AML compliance audit by Financial Intelligence Unit (FIU).
+  4. RBZ Governor approves licence.
+  5. Receive Bureau de Change Operating Licence disc.
+- Processing Time: 60 - 90 calendar days.

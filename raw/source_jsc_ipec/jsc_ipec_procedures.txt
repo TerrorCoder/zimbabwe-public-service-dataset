@@ -1,0 +1,38 @@
+JUDICIARY, IPEC & REGISTRATION PROCEDURES
+
+1. DECEASED ESTATE ADMINISTRATION & EDICT MEETING (SVC-061)
+- Agency: Master of the High Court (Judicial Service Commission)
+- Category: civil_registration
+- Requirements: Death Certificate, Death Notice Form BD 6, Inventory of Deceased's Assets, Marriage Certificate, Family Tree & List of Next of Kin, Original Will (if testate).
+- Official Fee: USD $30 Edict Meeting Notice Fee + Master's Estate Commission (1.5% of estate value).
+- Procedure Steps:
+  1. Register death notice at Master of High Court / Magistrates' Court office within 14 days.
+  2. Master convenes Edict Meeting with surviving spouse and relatives to appoint Executor.
+  3. Master issues Letters of Administration (Form MH 1) to appointed Executor.
+  4. Executor publishes Liquidation and Distribution Account in Gazette.
+  5. Estate distribution to beneficiaries upon account sign-off.
+- Processing Time: 30 - 90 calendar days.
+
+2. INSURANCE BROKER OPERATING LICENCE (SVC-072)
+- Agency: Insurance and Pensions Commission (IPEC)
+- Category: business_registration
+- Requirements: Minimum Capital Proof ($100,000 USD), Professional Indemnity Insurance Cover ($200,000 USD), Qualified Principal Officer (Fellow/Associate of Insurance Institute), Company Incorporation Docs.
+- Official Fee: USD $500 Application Fee + USD $2,000 Annual Operating Licence.
+- Procedure Steps:
+  1. Submit licence application to IPEC Insurance Supervision Division.
+  2. IPEC audits principal officer qualifications and professional indemnity cover.
+  3. Commission evaluates financial solvency and capital reserves.
+  4. Receive IPEC Insurance Broker Operating Licence.
+- Processing Time: 30 - 60 calendar days.
+
+3. SECURITIES INTERMEDIARY & STOCKBROKER LICENCE (SVC-098)
+- Agency: Securities and Exchange Commission of Zimbabwe (SECZIM)
+- Category: business_registration
+- Requirements: Minimum Net Capital ($150,000 USD), Passed SECZIM Stockbroker Exams, CID Police Clearance, Financial Guarantee Fund Contribution, Form SEC 1.
+- Official Fee: USD $1,000 Application Fee + USD $3,500 Annual Licence.
+- Procedure Steps:
+  1. Pass SECZIM professional securities examination.
+  2. Submit Form SEC 1 with company incorporation and capital proof.
+  3. SECZIM Board conducts background vetting and financial audit.
+  4. Receive Licensed Securities Intermediary / Stockbroker Certificate.
+- Processing Time: 45 - 60 calendar days.
